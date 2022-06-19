@@ -1,2 +1,2 @@
 # Artifact_One_Original
-This repository contains the original files that were utilized during the enhancement of Artifact One. The enhancement of this C++ dice game that was developed in February of 2022 saw a transfer of the program into a Java mobile application. 
+This repository contains the original files that were utilized during the enhancement of Artifact One. The enhancement of this artifact saw that transfer of a C++ dice game into a Java mobile application. This dice game, named LCR, tests the players luck by determining who can obtain and maintain the greatest number of gameplay chips.
